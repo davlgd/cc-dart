@@ -1,6 +1,6 @@
 {
   "name": "dart",
   "scripts": {
-    "start": "/home/bas/.local/bin/dart-sdk/bin/dart run src/app.dart"
+    "start": "./bin/app"
   }
 }
